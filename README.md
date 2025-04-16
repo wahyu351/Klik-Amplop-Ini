@@ -52,8 +52,6 @@
 </head>
 <body>
 
-  <h1>Klik amplop ini 💌</h1>
-
   <div class="envelope" onclick="openEnvelope()">
     <div class="flap"></div>
   </div>
